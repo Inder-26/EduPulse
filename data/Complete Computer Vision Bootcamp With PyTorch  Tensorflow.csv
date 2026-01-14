@@ -1,0 +1,187 @@
+course_name,course_id,review_id,content,rating,created,user_name
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,226413407,good for beginners,5.0,2026-01-12T02:24:58-08:00,Brian Chikura
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,225709105,"From OpenCV section, none of the things are clearly being explained. An example:
+Usage of cv2.cvtColor(), the instructor could've elaborated the explanation. by saying. 
+Takes two arguments: the image and the conversion type
+cv2.COLOR_BGR2RGB: Convert OpenCV's BGR to standard RGB (for matplotlib)
+
+When I'm expecting what a function is supposed to do, that isn't covered by the instructor. I'm asking AI to explain what each function is doing and why in the first place we are using it.",2.0,2026-01-04T06:52:45-08:00,Jinu Prakash
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,225093263,Great Learning experience,5.0,2025-12-26T09:37:49-08:00,Pushpak Jaisawal
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,223064413,"The implementation and the way of explaination is not giving proper exposure towards theory of concept 
+
+not at all in-depth",1.0,2025-12-01T22:02:31-08:00,Malak Soni
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,222870805,Good,5.0,2025-11-29T11:13:48-08:00,Suraj Kumar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,221797875,good so far,4.5,2025-11-17T05:35:43-08:00,Eftekher Ali Efte
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,221722655,quality is good but the text in video that is the codes are too small to view in mobile,5.0,2025-11-16T09:23:42-08:00,Srinjoyee Dey
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,221602717,"Want to learn Computer Vision and Artificial Intelligence? Get it all here from programming with Python, and every step of the way of any questions, the universe and everything. Cannot go wrong with a course from Krish Naik and friends. I'm personally learning for OpenCV and apply machine learning/AI to game engine textures and materials.",5.0,2025-11-14T04:53:20-08:00,Mike Harris
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,221533429,Good Course,5.0,2025-11-13T10:40:54-08:00,Aayushi Lohani
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,221187255,Great project,4.0,2025-11-10T07:04:58-08:00,Suraj Sharma
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,219832581,Good contents and insight teaching from basic to deep,4.5,2025-10-26T02:57:45-07:00,S Gowrishankar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,219629343,amazing course,4.5,2025-10-23T05:49:34-07:00,Anshuman Panda
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,219283209,Please provide steps to install Anaconda and VScode in Macbook and configure environment variables,5.0,2025-10-19T06:13:05-07:00,Shiv
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,219141307,best,5.0,2025-10-16T22:53:11-07:00,Tushar joshi
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,218519721,"It is an amazing course. I have learned many things from that. However, in some videos, only typed code is shown, which is less effective for learning.",4.5,2025-10-09T13:10:03-07:00,Joy Kumar Acharjee
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,218336161,It is great overall but the switch on lectures starting on the models make it less fun and just the same like other lectures out there. It's a bit boring on the later part of the course unlike on the first half where it's interactive and story telling is on point.,3.5,2025-10-07T22:42:14-07:00,Liana Estoque
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,218137837,Super teaching,5.0,2025-10-05T23:04:04-07:00,Srinivas
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,217201239,good,5.0,2025-09-24T11:22:43-07:00,Venu Gopal gattineni
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,216477659,He teaches very nicely and make concept clear which is what is required especially in this field. Big thanks to Krish Naik !!!!!!!!!!!!!!!,5.0,2025-09-16T14:31:50-07:00,Sandeep Bhargava
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,216036359,following steadily since am new to programming.,5.0,2025-09-11T05:00:45-07:00,michael Darko
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,215727547,Very good,4.0,2025-09-08T07:27:36-07:00,gaspar dupas
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,215239097,"Every module is Excellent, but hand-on project is not there even though many mini projects are present ! Please upload it, will help a lot.",5.0,2025-09-02T08:27:57-07:00,Shivam Patil
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,215122965,nice explanation tell now,5.0,2025-09-01T05:24:19-07:00,Tushar Gupta
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,214903559,"The issue I felt is that the teaching lacks personal touch unlike Krish sir. Here the teacher seems to be in a hurry to end the course and does not teach well, also lacks good end to end projects that are resume worthy.",2.0,2025-08-29T01:51:32-07:00,Abinash Pradhan
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,214691457,Nice Course for CV!,5.0,2025-08-26T22:28:41-07:00,Ravi Panchal
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,214121043,good,5.0,2025-08-20T06:57:34-07:00,Abhishek Dubey
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,214016343,"Overall, the course was very good and informative. However, the sound quality in the last three sections was noticeably low, which made it a bit difficult to follow. Improving those parts would make the learning experience much better.",3.5,2025-08-19T07:56:10-07:00,MD. Hannan Mia
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,213966407,"All the resources are not available, it is since 3 months now and there is no update. Please update the content. krish sir we follow please dont do like this, this should not be like a business",1.0,2025-08-18T23:18:59-07:00,Aatish Kumar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,213764877,he is very good teacher. everyone can understand very easy manner. he has a great technical skills .,5.0,2025-08-16T04:39:55-07:00,Tadivalasa Tirupathi Rao
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,213620713,"Explanations are very clear, course well structured. I'm missing some deep dives into some of the topics",4.5,2025-08-14T06:15:51-07:00,Itai Friedman
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,213615901,"it was good till krish naik left, after that it was so rough
+no projects whatsoever, could have been so much better for the time and pricing",2.5,2025-08-14T05:22:48-07:00,Harsh Jain
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,213602309,Excallent !,5.0,2025-08-14T02:44:35-07:00,Kiran Rudramuni
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,213279305,excellent,5.0,2025-08-11T00:13:44-07:00,M Leela
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,213174593,"good but just a little less concept explanantion, also no projects added and also transformers are not there till now, but best course for begginers like me, cant say worth it but yeah its pretty good and with paying some amount of money discipline comes automatically.",3.5,2025-08-09T01:02:40-07:00,Vansh Pandit
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,212920751,"I cannot skip the lecture downloads side panel, due to which width of video becomes small even in landscape.",4.0,2025-08-06T05:47:41-07:00,Zoha Khalid
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,212603431,"Course is good, adding few projects and deployment of model in production would have been good. Overall good.",4.0,2025-08-02T23:24:16-07:00,Ramakrishnasai Wuppalapati
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,212554163,"Krish has good teaching skills and he explained very well , I recommend all to get basic concepts cleared using all cources from Krish",5.0,2025-08-01T23:32:19-07:00,Saurabh Kulkarni
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,212119479,its ok for getting started / overview. Wish object detection and segmentation had more depth.,3.0,2025-07-28T21:19:11-07:00,Abcdefg Hijklmno
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,211910589,nyc explanation....,4.5,2025-07-26T02:00:20-07:00,Harshavardhan Maddula
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,211906291,Very Good,5.0,2025-07-26T00:17:33-07:00,Sayantan Mandal
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,211898757,very clear and understandable,5.0,2025-07-25T20:43:12-07:00,Surya annepu
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,211811303,"yes, the concepts are clear and explaining in easier way and i suggest to provide the notes as well and practicing questions",4.5,2025-07-24T22:29:01-07:00,Gugulothprabhakar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,210726149,greatt,5.0,2025-07-13T05:06:01-07:00,BHOPINDRASINGH PARMAR
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,210680391,Great course.,5.0,2025-07-12T06:48:27-07:00,Dhinesh A M
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,210524675,Excellent explanation !!!,4.5,2025-07-10T07:36:09-07:00,Purnachandra Nayak
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,209863019,good,5.0,2025-07-02T19:07:45-07:00,Mahadev Bag
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,209785933,The way of teaching is good. Krish Naik Sir always starts the topic with the basics. That's something every student wants,5.0,2025-07-02T00:59:29-07:00,Sunny Somnath Kandu
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,209364007,"code editor must be zoomed for some videos, and some mini projects should be added.",4.0,2025-06-27T07:25:34-07:00,Awadhesh Gupta
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,209019883,"Krish sir more than a good instructor he is a very good person . 
+doing great job taking so many students ahead , giving good skills . 
+very happy.
+I'm myself a professor and I apply sirs learnings to teach students.",5.0,2025-06-24T06:47:26-07:00,Divesh Jadhwani
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,208740973,All contents are useful & Informative,4.5,2025-06-21T00:15:37-07:00,JAVED AYMAT HUSEN SHAIKH
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,207549281,Good job,4.5,2025-06-08T00:07:58-07:00,Victor Williams
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,207222479,Very helpful and able to learn something new,4.0,2025-06-03T21:37:09-07:00,Pushpakanti Duari
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,207029047,This is the best lecture that I have ever taken in online course.,4.0,2025-06-01T23:10:45-07:00,DONG CHUL LEE
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,206618665,Amazing. I am enjoying the journey.,5.0,2025-05-27T23:19:00-07:00,Rajnish kumar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,206503445,It is nice explanation,5.0,2025-05-26T22:10:54-07:00,Mrudurajsinh Chudasama
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,206208153,nice course but should have added more projects,5.0,2025-05-23T01:17:17-07:00,Rupesh Mahar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205915867,"the object detection section in this course is not clear to understand, he taught the yolov11 like someone who already know, we are begginer,we do not know about how to use google collab, but he taught like the students knows everything.",1.0,2025-05-20T06:51:21-07:00,Piyush Mohanty
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205798523,"The Ultimate Data Science Boot camp offers a valuable learning experience, particularly for those interested in Computer Vision. As a student of the program, I found the course materials to be well-structured and engaging. A significant strength of the boot camp is the instructor, Monal, who is highly effective. His use of wonderful real-world scenarios truly brought the concepts to life and enhanced understanding. Overall, this course appears to be a good pathway to gain familiarity and competence in the field of Computer Vision.",4.5,2025-05-19T05:18:07-07:00,Naveenraj Ramalingam
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205599945,"Very nice teaching, easy yo understand",5.0,2025-05-16T07:09:47-07:00,Prabhat k mishra
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205465731,"Highly recommended to everyone interested in Deep Learning. Krish, Monal and Paul are exceptional mentors. Thank you guys",5.0,2025-05-15T00:16:48-07:00,Fetinue etame
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205284103,Good 💯😊 really useful,4.0,2025-05-13T06:04:48-07:00,Husain Ahamed
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205112241,thankyouu sirrr,5.0,2025-05-11T09:27:49-07:00,Vansh Khanna
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205083557,Good Course to get hands on experience on All basic Computer vision concepts,5.0,2025-05-10T21:06:08-07:00,Bahadursha A V L Sainadh
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205068831,very good,5.0,2025-05-10T11:17:27-07:00,rupesh bhagat
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205064219,very excited to begin with this at 50...wish me luck,5.0,2025-05-10T09:20:01-07:00,Vinay Tripathi
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205063195,I am learning Machine Learning and I took this course as a logical next step in my choice of courses to advance my knowledge of Deep Learning and Computer Vision.,5.0,2025-05-10T08:53:52-07:00,Vijay Kolluru
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062999,Good,5.0,2025-05-10T08:49:17-07:00,Chanakya
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062855,The course was excellent. Each session was resourceful and impactful,5.0,2025-05-10T08:45:57-07:00,Yohannes
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062845,Course is very good and informative.,5.0,2025-05-10T08:45:44-07:00,Prince Garg
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062743,Thank you for the great collection of lectures,5.0,2025-05-10T08:43:48-07:00,Augustine Madumere
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062719,This was a free giveaway announced midway of a different course by the KNA. The course content looks to be of good quality and competent. They have Monal Kumar who teaches really well and is extremely patient. We are blessed to have an amazing instructor in this introductory journey into learning python-based real-world applications. Thank you!,4.5,2025-05-10T08:43:02-07:00,Vivek ShEshAdri
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062711,This course is very useful,5.0,2025-05-10T08:42:49-07:00,Bindesh Kumar chauhan
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062703,"This course is really awesome !! Happy Learning 
+
+Must course for computer vision",5.0,2025-05-10T08:42:44-07:00,Bhaskar Saini
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062679,.,5.0,2025-05-10T08:42:25-07:00,Surajkumar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062675,Detailed level course!!,5.0,2025-05-10T08:42:14-07:00,Sujita .
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062667,Very nicely explained.,5.0,2025-05-10T08:42:11-07:00,Prashant Annigeri
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062671,"This is an amazing course, I have seen in long time, hopefully it would be wonderful journey all together. Exciting it must be knowledgeable. Thanks for sharing.",5.0,2025-05-10T08:42:11-07:00,Divakar Kaushik
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062659,Nice course on computer vision,5.0,2025-05-10T08:42:08-07:00,Sunil Bagul
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062647,good course,5.0,2025-05-10T08:42:04-07:00,Ankush sarpal
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062641,"Nice Explanation, good Course",5.0,2025-05-10T08:42:01-07:00,Bhargav balineni
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062629,Absolutely Good,5.0,2025-05-10T08:41:55-07:00,Shilpa
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062623,Very Good course,5.0,2025-05-10T08:41:52-07:00,Praveen Joshi
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062621,Great content and great mentors,5.0,2025-05-10T08:41:51-07:00,Alok Anand
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062613,very amazing course,5.0,2025-05-10T08:41:50-07:00,Sangram Sahu
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062609,Very detail oriented  and all the mentors are  expert in the subject matter and their way of teaching is exceptional,5.0,2025-05-10T08:41:49-07:00,Divyesh Bhatt
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062605,Great Curse,4.5,2025-05-10T08:41:45-07:00,Abhishek Mishra
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062603,Awesome,5.0,2025-05-10T08:41:44-07:00,Arunkumar Ravichandran
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062593,Best course available in Udemy on computer vision,5.0,2025-05-10T08:41:40-07:00,Anantha Sr
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062591,"Great course, I have took classes from all the 3 mentors and can vouch for them to be the best in business.",5.0,2025-05-10T08:41:39-07:00,Jamadagni Kotamsetty
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062583,"Awesome course , use to upgrade your skills",5.0,2025-05-10T08:41:38-07:00,Md Istiyak
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062585,"Amazing Course, thank you very much Krish Sir, thank you very much Monal Sir and thank you very much Paul Sir",5.0,2025-05-10T08:41:38-07:00,Shiv Saraswat
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062567,"Thank You Monal Sir, Krish Sir 
+you guys are Real GURUs",5.0,2025-05-10T08:41:29-07:00,Sajesh Morje
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062565,Best teaching by all the mentors,5.0,2025-05-10T08:41:27-07:00,Pankaj
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062551,"This course is well-structured and easy to understand, with in-depth explanations and straightforward implementation of concepts. 
+
+Thanks for all the effort you put here!",5.0,2025-05-10T08:41:21-07:00,Rahul Mittal
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062539,thank for giving this course,5.0,2025-05-10T08:41:14-07:00,Dhanunjay
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062537,"This course exceeded my expectations in every way. The content was thoughtfully structured, blending theory with hands-on practice to ensure deep understanding. The instructor explained complex concepts clearly and made them approachable, even for challenging topics like neural networks and image processing. The real-world applications and projects were particularly impressive, helping me gain both confidence and practical skills. I highly recommend this course to anyone looking to build a strong foundation in computer vision.",5.0,2025-05-10T08:41:14-07:00,Anil Patidar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062531,Great course!,5.0,2025-05-10T08:41:12-07:00,Debanjan Mani
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062519,"excellent course ,I have already enrolled for another course ,Krish ,monal sir teaching os outstanding .",5.0,2025-05-10T08:41:07-07:00,Rohan Kr. Mukherjee
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062517,"AWESOME Job, Krish, Monal and Team.   Excellent material. Would recommend every one.",5.0,2025-05-10T08:41:06-07:00,Byju Nambidiyattil Govindan
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062515,Good,5.0,2025-05-10T08:41:05-07:00,Dinesh
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062513,Really amazing depth of knowledge.,5.0,2025-05-10T08:41:03-07:00,Vathsala Sivapalan
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062501,Amazing course. Every thing is from scratch to Advance,5.0,2025-05-10T08:40:59-07:00,Mohammad Azam
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062503,It is super,5.0,2025-05-10T08:40:59-07:00,Shyam Kishor
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062497,Excellent topic and explanation,5.0,2025-05-10T08:40:56-07:00,Prabhat Roy
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062495,its good bro,5.0,2025-05-10T08:40:53-07:00,Vamsi
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062483,Thanks a Lot Krish and Monal,5.0,2025-05-10T08:40:43-07:00,Bharath Surendra
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062453,excellent,4.5,2025-05-10T08:40:19-07:00,Srinivas Dasari
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062451,good,5.0,2025-05-10T08:40:15-07:00,Kamaldeep
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062431,"It's awesome, the explanation is simple & clear, easy to understand.",5.0,2025-05-10T08:39:56-07:00,Samsul Alom Laskar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062405,Good Information for learning the Computer Vision,5.0,2025-05-10T08:39:37-07:00,Lova Raju
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062397,"✅ Teaches both TensorFlow and PyTorch, so you can use either. ✅ Includes real-world projects to help you learn by doing. ✅ Uses pre-trained models like ResNet and VGG, so you don’t have to build everything from scratch.",5.0,2025-05-10T08:39:29-07:00,vidyasagar mekapothula
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062381,very  good,5.0,2025-05-10T08:39:22-07:00,ANITHA DSILVA
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062327,Really liked the course and content provided ..Learned so many topics in Computer vision.  Its a recommandable course to everyone.,5.0,2025-05-10T08:38:47-07:00,Mahesh Sanika
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062319,This Computer Vision Bootcamp is truly comprehensive! The trainer effectively covers everything from basic CNN concepts to advanced object detection models using both PyTorch and TensorFlow. Highly recommended for anyone looking for a complete understanding of computer vision.,5.0,2025-05-10T08:38:38-07:00,Karan Manchanda
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062321,Amazing,5.0,2025-05-10T08:38:38-07:00,Vishal Tiwary
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062315,this is just great course! the tutors are amazing!,5.0,2025-05-10T08:38:36-07:00,Nandan Das
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062313,Fantastic,5.0,2025-05-10T08:38:34-07:00,Avanish Srihari Baje
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062305,Great course,5.0,2025-05-10T08:38:33-07:00,Shubham Kharat
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062291,Very insightful course,5.0,2025-05-10T08:38:18-07:00,Udemy User
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062285,One of the best course! Thank you so much,5.0,2025-05-10T08:38:15-07:00,Supriya Kadbhane
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062279,Excellent course. Topics have been beautifully explained. All the mentors are very good.,5.0,2025-05-10T08:38:11-07:00,Heartine Lazar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062269,HIGHLY ENRICHED CONTENT... LOVED IT,5.0,2025-05-10T08:38:07-07:00,Bitan Basak
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062263,thank you so much for this opportunity,5.0,2025-05-10T08:38:01-07:00,Kishor Giri
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062231,Overall a nice detailed course to boost your knowledge in CV,5.0,2025-05-10T08:37:44-07:00,Mohit Basantani
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062227,overall course would be nice,5.0,2025-05-10T08:37:43-07:00,THIRUGNANAM T
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062223,course is very very good .Thank you so much,4.5,2025-05-10T08:37:39-07:00,Prem Sepuri
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062219,best,5.0,2025-05-10T08:37:38-07:00,Omkar Mhatre
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062215,"Excellent course! Thanks, Monal sir.",5.0,2025-05-10T08:37:37-07:00,Amandeep Sonewane
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062209,great teaching,5.0,2025-05-10T08:37:32-07:00,Ravi Kumar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062199,"Its good for NLP , Computer Vision",5.0,2025-05-10T08:37:28-07:00,Milan Moreshwar Mohurle
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062191,Thank you for the course !,5.0,2025-05-10T08:37:22-07:00,Vishal Singh Chauhan
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062187,Great Course. Explained on nice pace.,5.0,2025-05-10T08:37:21-07:00,Bindhyesh Mani Tripathi
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062183,"Insightful course, thank you to Krish Sir, Monal Sir and Paul Sir; for making this course and put the concept in easiest way.",5.0,2025-05-10T08:37:18-07:00,Nishant Modi
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062181,One of the best course on Computer Vision,5.0,2025-05-10T08:37:17-07:00,Rahul Aggarwal
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062171,"This the best Computer Vision course in Udemy, It have more advanced concepts, I like this course very much.",5.0,2025-05-10T08:37:15-07:00,Ponraviraj M
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062169,Extremely Detailed with Extended Coverage of Subtopics to Maximise Understanding.,5.0,2025-05-10T08:37:14-07:00,Alan Christy
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062143,Wonderful content,5.0,2025-05-10T08:37:05-07:00,Sivakumaran shanmuga
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062139,Very Good Course!!,5.0,2025-05-10T08:37:04-07:00,Nagaraj
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062135,Amazing course,5.0,2025-05-10T08:37:03-07:00,Vivekanand Krishnaprasad Pandey
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062129,"This course is really very awesome, I am the student of all three mentors and all the mentors teaches very well. but the way Monal teaches, even the non tech guy can understand very well. I will recommend if any one want to learn Computer Vision, this course is must go.",5.0,2025-05-10T08:37:00-07:00,Rajan Kumar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062123,Really appreciate you sharing this great knowledge,5.0,2025-05-10T08:36:57-07:00,Raunak ali
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062119,Best course under this price range,5.0,2025-05-10T08:36:54-07:00,Malleshgopi
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062091,Very good course,5.0,2025-05-10T08:36:48-07:00,Harika Desu
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062093,Great course,5.0,2025-05-10T08:36:48-07:00,Alladi Akshay Kumar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062077,Excellent one,5.0,2025-05-10T08:36:44-07:00,Krishnakumar S
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062061,great course,5.0,2025-05-10T08:36:35-07:00,Stanley George
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062055,Thank you monal,5.0,2025-05-10T08:36:31-07:00,Nagendra Vinay R
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062053,Great lecture,5.0,2025-05-10T08:36:28-07:00,Rohini verma
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062039,Excellent course,5.0,2025-05-10T08:36:15-07:00,Navester c
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062033,Excellent,5.0,2025-05-10T08:36:11-07:00,Jude Arun
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062029,Teachers are good,5.0,2025-05-10T08:36:03-07:00,Yogesh Sharma
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062025,"Really happy to see this course for free, Thank you!!",5.0,2025-05-10T08:36:01-07:00,Akshara K B
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,205062019,Thanks for providing this best video,5.0,2025-05-10T08:35:57-07:00,Jaya Prakash
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,204782141,Comprehensive and well-structured course! The integration of theory with hands-on implementation using both PyTorch and TensorFlow provides strong foundational and practical insights into modern computer vision workflows. Highly recommended for anyone getting started with computer vision.,5.0,2025-05-07T01:06:01-07:00,Nivakaran Shanmugabavan
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,204518315,excellent teaching and explanation,4.0,2025-05-03T21:08:48-07:00,62 Nithish Kumar.M
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,203310325,I have some knowledge about ML so till now I'm getting all the concepts and it's too good.,5.0,2025-04-18T10:42:14-07:00,Naveen G Patil
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,203258035,excelente elección,5.0,2025-04-17T20:24:19-07:00,Francisco José ValenciaAlaix
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,203216377,great,4.5,2025-04-17T06:34:31-07:00,Syendi Putra Rabbani
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,203138653,Very good,5.0,2025-04-16T09:26:43-07:00,Suraj Mahadev Waghmare
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,203017843,The course is great. It is well structured and the material is presented in a way that is clear and easy to follow.,5.0,2025-04-15T05:43:22-07:00,Moses Musyoki
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,202942655,very good,3.5,2025-04-14T10:41:48-07:00,Prithweeraj Halder
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,202784875,Please add vision transformer.,4.0,2025-04-12T04:25:47-07:00,Sasanka Jana
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,202530085,"The author doesn't seem to review the paper implementation, which interests me. They seemed to use the information from the wiki without talking about the differences or why that matters",1.5,2025-04-09T07:04:37-07:00,J Mag
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,202475733,"great lectures and well-structured content! Just a few suggestions: when OpenCV starts, showing the camera feed would add a nice hands-on feel. Also, sometimes the cursor doesn’t move, which makes it hard to follow, and the tone can feel a bit scripted. But overall, you're doing a great....",2.0,2025-04-08T20:47:14-07:00,Ritesh Mahale
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,202297663,Nice,4.5,2025-04-07T03:27:47-07:00,Sandipan Dhar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,202078025,Nice,3.5,2025-04-03T19:13:52-07:00,Moh Alhassan
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,201849707,Interesting teaching,5.0,2025-04-01T09:17:47-07:00,Amos Adesuyi
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,201543609,Knowledge enhancing and easy to understand,5.0,2025-03-28T09:21:13-07:00,Aditya Zarekar
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,201495387,Thankyou for the amazing Course..,5.0,2025-03-27T23:42:15-07:00,S.Mohan
+Complete Computer Vision Bootcamp With PyTorch & Tensorflow,6278133,201357665,Best Computer Vision Course in Udemy!!!,5.0,2025-03-26T14:23:41-07:00,Ibrahim Abdikadir

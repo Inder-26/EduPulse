@@ -1,0 +1,430 @@
+course_name,course_id,review_id,content,rating,created,user_name
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,226481619,Krish is such a great instructor and very sincere!,5.0,2026-01-12T16:49:19-08:00,Shankar Ranganathan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,226323185,Explained in very detailed,4.5,2026-01-10T18:14:18-08:00,P S Suresh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,226294333,A liitle less explanation soo time taking,3.5,2026-01-10T04:53:12-08:00,Vinod kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,226278035,Best course 🥰,5.0,2026-01-09T21:59:58-08:00,Aditya Kadam
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,226245535,"If any questions related to the task, no one here to reply.",3.0,2026-01-09T08:50:34-08:00,Alpesh Patel
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,226177433,"thanks for this info, it is more",5.0,2026-01-08T18:37:30-08:00,Jotheeswaran R
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225966121,"I took this course to get a structured, end-to-end introduction to building agentic AI systems with LangGraph and LangChain, and it does a good job covering both the concepts and the practical implementation. It starts from the fundamentals of agentic AI and gradually moves into building real workflows, single-agent and multi-agent systems, memory, tools, and RAG-style applications. The course is long and detailed, and if you follow along, you come away with a solid understanding of how these frameworks are actually used in practice.
+
+The main tradeoff is that the pacing can sometimes feel slow or repetitive, and some sections go deeper into setup or code mechanics than strictly necessary, while a few advanced topics (like deployment or more production-level patterns) could be expanded further. That said, for developers who want a thorough, step-by-step path into LangGraph-based agent systems and don’t mind a very detailed, classroom-style approach, this is a strong and useful course.",5.0,2026-01-06T20:32:48-08:00,Viorel Mirea
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225888937,good,5.0,2026-01-06T02:56:46-08:00,Tatapudi naga Phaneendra
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225888249,all good,5.0,2026-01-06T02:49:56-08:00,Umesh Chauhan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225853949,Nice,5.0,2026-01-05T20:42:28-08:00,Bhoopesh Verma
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225766917,Really good learning,4.5,2026-01-05T01:23:56-08:00,Sudeep Pirangi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225756063,"Krish explains the concept very well on the Langchain, langraph etc, however as we go into the projects etc, it takes a front end developer mode, etc & get confused & also python deep dive is not required as people are taking the course for Agentic AI and not Python etc. 
+
+Flow needs to be improved as video are repeated for the OpenAI keys etc...and also 90% uses OpenAI with a 5$ credit and should focus on 1 or 2 LLM than showing bunch of LLM.",2.0,2026-01-04T23:29:56-08:00,Vivek Prabhu
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225615845,"Really good course, very good content covering from basic to advanced concepts.",4.5,2026-01-02T10:57:55-08:00,Bhumeshwar Sarswat
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225387801,"Amazing content, Mr. Krish! I don’t think anyone explains building agents with LangChain better than you. I can tell you invested a lot of time recording these videos, and the value of the content far exceeds its price.
+
+Best regards,
+Venkat Anampudi",5.0,2025-12-30T07:33:19-08:00,VENKAT ANAMPUDI
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225369653,.,4.5,2025-12-30T04:23:46-08:00,Jitendra Kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225364567,"Krish has put in a tremendous amount of effort in designing the curriculum and explaining the topics step by step. The course is well-structured and easy to follow, which makes learning enjoyable. I really appreciate the clarity and logical flow throughout the sessions.
+That said, there are a few areas where improvements could make this course even better:
+
+At some instances, more practical and relatable examples could have been used to strengthen understanding.
+The final projects could have emphasized advanced concepts like memory chains, retrievers, and other tools—perhaps building a full-fledged chatbot as a capstone project.
+In certain sections, Krish seemed to run through the code quickly; a bit more in-depth explanation of the underlying logic would have added great value.
+
+Overall, it’s a very good course and I learned a lot. Thank you, Krish, for your hard work and dedication!",4.5,2025-12-30T03:29:48-08:00,Love Kushal Vaish
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225302597,This is great course. Krish taught all the topics and sections very sequentially and covered all the basics. it would have been great if deployment to cloud sections gets included in future for this course. I am still completing the course and will update my feedback if needed.,4.5,2025-12-29T11:32:01-08:00,Ganesh Patel
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225225683,all the course from krish naik is as usual covers in depth. pls keep creating good contents like this.,5.0,2025-12-28T21:51:14-08:00,Avinash Jethy
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225202877,"Absolutely poor course ! My fingers hurt from skipping the same explanation 100 times. In the whole course, he pastes some text, keeps reading it 3-4 times in a loop, and asks if we understood. I'd rather read the langchain docs myself rather than waste my time here.",1.0,2025-12-28T11:48:54-08:00,Hloriia Ziubrovska
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225192041,"so much lag, and redundant content i felt.",1.0,2025-12-28T07:45:22-08:00,Teja Polisetty
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225097771,The agent is talking about the same thing over and over again and getting off-track from the topic,1.0,2025-12-26T10:50:24-08:00,MD Rashid Hussain
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225054177,Awesome,5.0,2025-12-26T00:15:22-08:00,Anonymized User
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225048961,It covers more topics and less focused on specific topics,3.5,2025-12-25T23:06:05-08:00,Nipun Malik
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225033781,excellent explanation,5.0,2025-12-25T18:39:04-08:00,Raghava Nalla
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,225011355,Initial review,4.5,2025-12-25T07:01:09-08:00,Narendra Reddy Kadiri
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224947025,very good,4.5,2025-12-24T06:09:08-08:00,MOHAMMAD ALI KHAN
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224882423,"Excellent and lengthy course. Very detailed explanation. Some places looked repetitive that helped in revising. I wish the course could cover more about MCP, deploying the solutions to cloud services, use of CI/CD and A2A, AGUI protocol, crew AI, N8N etc.",5.0,2025-12-23T12:39:00-08:00,Ankit Jain
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224831857,Good,5.0,2025-12-23T02:26:39-08:00,Ashutosh Mohanty
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224814323,Always a delight to learn from Krish,5.0,2025-12-22T23:23:12-08:00,MAYANK SRIVASTAVA
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224741057,very good explanation. Thank you so much for the structured course !,5.0,2025-12-22T04:37:15-08:00,Hrishikesh Bhagawati
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224715787,It is a good course on agentic AI. Some coding need to be fixed to get work. Expected more practical real world implementation. Looking forward for more courses having real world agentic APP/Agent creation.,4.5,2025-12-22T00:29:16-08:00,Anil Kumar Kar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224613637,nice course,4.5,2025-12-20T03:09:58-08:00,Remya R
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224543317,very well explained the course,5.0,2025-12-19T02:33:14-08:00,Nandji Kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224535203,This is a good one to start with.,3.5,2025-12-19T01:00:22-08:00,H Seng Naw Aung
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224518995,Good learning bath Agentic ai,4.5,2025-12-18T21:36:26-08:00,Pandurang Chaudhari
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224433667,good,5.0,2025-12-17T23:41:45-08:00,Chandrashekar Muthe
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224328603,"The content is not updated, it was more than a year old. Repetation is there in the videos",2.0,2025-12-16T22:43:39-08:00,Pravar Sharma
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224228597,amazingg videos!,4.0,2025-12-15T22:46:41-08:00,Kanika Birla
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224186913,This is really great course for beginners and intermediate. He started from very basic and ended with advanced topic,4.5,2025-12-15T09:37:53-08:00,Digvijay Pandey
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224081693,Again Krish proved his teaching skills. I gained more knowledge on this course. One suggestion from my end is include n8n architecture and real vector database in the course rather than using in-memory db like FAISS and Chroma which is of production grade standard.,5.0,2025-12-14T04:44:39-08:00,Santosh Pusparaj
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224080599,"Very nice, keep adding new contnet Krish",4.5,2025-12-14T04:16:46-08:00,Sasidhar v
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224069477,"It is an amazing course. It had helped me to start my AI professional jourey very easy. The content and topic are well designed. And the explaination is great. 
+Thanks Krish Naik for the great learning course",4.5,2025-12-13T23:05:04-08:00,Riku Srivastav
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,224060301,excellent so far,5.0,2025-12-13T17:09:42-08:00,Nabin Dhanuka
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223997707,"for beginner it's really verry good course. I am still in between, will post comment once complete this course.",5.0,2025-12-12T09:00:21-08:00,Pushkar Dhaked Singh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223962401,.......,5.0,2025-12-12T01:28:18-08:00,Swathi Chatti
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223649243,"A lot of repetition in each video. Videos could have been more concise and informative. Also, the examples used could have been more practical, seemed too simple to be of any practical use.",2.5,2025-12-08T22:09:02-08:00,Sanchit Kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223608747,It was a great course. Ended up learning a lot.,5.0,2025-12-08T09:22:23-08:00,Saurabh Bajaj
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223597321,Good,5.0,2025-12-08T06:53:34-08:00,Shilpa D
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223585937,Very nice.,5.0,2025-12-08T04:37:12-08:00,MAMTA SHARMA
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223552307,Great to learn,5.0,2025-12-07T22:21:29-08:00,Koyela Dutta
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223494395,...,5.0,2025-12-06T21:44:25-08:00,Yogesh Singh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223463735,Very good,5.0,2025-12-06T04:24:36-08:00,kasarla rakesh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223403371,Useful,4.5,2025-12-05T04:54:47-08:00,Neela Venkatesh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223394679,"Krish has excellent knowledge of Agentic AI, and he explains every concept in very simple and easy-to-understand terms. I really appreciate the clear examples and practical demonstrations throughout the course. This is one of the best bootcamps for learning LangGraph and LangChain.",5.0,2025-12-05T03:03:06-08:00,Sushil More
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223304433,Awesome skills to explain,5.0,2025-12-04T03:30:40-08:00,Jaydeep Dabhi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223246025,have to go through other slides,4.5,2025-12-03T13:00:14-08:00,Nate Vinjamuri
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223214007,all good,5.0,2025-12-03T05:52:46-08:00,Sachin Sharn Gowda
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,223169251,Exaplanation good. but voice is breaking some times,4.0,2025-12-02T21:23:42-08:00,Chidhanand
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222985611,iTS too beginer friendly,3.5,2025-12-01T03:26:17-08:00,Lourvens Luxamar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222926763,"Great! I wish there was an updated version for Langchain 1.0, since the API has changed a lot.",3.5,2025-11-30T10:53:40-08:00,Capi Etheriel
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222919351,Indeed and it has really helped me to enhance my skills,4.5,2025-11-30T08:32:19-08:00,Vamsi Mallipeddi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222899717,Great course,5.0,2025-11-30T02:09:28-08:00,Yogesh Honap
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222873271,good,5.0,2025-11-29T12:19:56-08:00,ANAND Vadapalli
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222852473,b v,4.0,2025-11-29T04:45:39-08:00,Snehal Kore
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222792835,This course makes noob feel hero in GenAI,4.0,2025-11-28T06:16:48-08:00,Pranav Titambe
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222716895,good,5.0,2025-11-27T10:06:46-08:00,Bharanidhar Dhar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222426349,good,4.0,2025-11-24T18:09:15-08:00,Balaji R
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222328569,Best,5.0,2025-11-23T20:21:56-08:00,Akash Sawant
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222310683,Awesome course.,5.0,2025-11-23T11:06:43-08:00,Anshul Rankawat
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222305965,good,5.0,2025-11-23T09:16:39-08:00,Anshuml
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222253767,very good course,4.5,2025-11-22T08:16:38-08:00,Vagmi G Bhat
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222183407,Many of the libraries and implementation is changed,2.0,2025-11-21T05:21:40-08:00,Atharva Khodke
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,222124205,"Great detail, easy to follow!",5.0,2025-11-20T13:49:40-08:00,Paul Pacholski
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,221823157,A truly valuable course — Krish is an outstanding instructor. Highly recommended for anyone beginning their career journey.,5.0,2025-11-17T10:49:54-08:00,Ahmed Gaber
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,221717129,Totally Amazed by the teaching skill of sir,5.0,2025-11-16T07:20:55-08:00,Rajat Gupta
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,221673879,Excellent,5.0,2025-11-15T08:46:20-08:00,Milind Gade
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,221565145,Amazing,5.0,2025-11-13T21:28:59-08:00,Ganesh S1
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,221561673,it's ok so far,4.0,2025-11-13T20:32:19-08:00,Johnnie Sanders
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,221457963,Very informative and easy to understand.,5.0,2025-11-12T20:48:43-08:00,Parag Bhagat
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,221315199,"Really loved it ! 
+
+It would be better if Krish Sir could make a small video to explain about different agentic workflows like parallel chaining , branch etc .",5.0,2025-11-11T10:24:34-08:00,Akhilesh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,221098759,mac would have been better. very few use windows today especailly in US.,4.0,2025-11-09T08:45:16-08:00,Avinash Kawale
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,221096697,"Great Course Overall. Detailed hands on with LangGraph. Liked it.
+
+I think the length of the videos are long. Somethings could be skipped.",5.0,2025-11-09T08:05:11-08:00,Inuguri Nagendra
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,221045347,yah everyting is smooth,4.5,2025-11-08T08:43:18-08:00,Lalit
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,221018823,good match for ai enthusaist,5.0,2025-11-07T22:11:18-08:00,Udemy User
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220994601,.,5.0,2025-11-07T10:47:18-08:00,SenthilKumar Subramanian
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220945453,This is good start,5.0,2025-11-07T00:53:32-08:00,Harjeet Singh Saini
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220805277,amazing!,5.0,2025-11-05T13:42:19-08:00,meer aram
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220576419,good coverage,4.0,2025-11-03T09:49:43-08:00,Anil Phulpagar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220419893,I liked this course as it covers all the important Langchain concepts with implementation and also building some applications. Krish Naik is really a Great tutor for people pursuing GenAI or Data Science Career,5.0,2025-11-01T00:36:49-07:00,SnGr_ Vivek
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220417059,"very detailed oriented course, too much taking experience",5.0,2025-10-31T23:02:13-07:00,Jayantkumar N Jayswal
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220412375,"One of the best courses I have seen for someone who wants to learn python, Generative AI,  Agentic AI and MCP.",5.0,2025-10-31T19:47:45-07:00,Wasim Ahmed
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220374993,Please add reference code and links to any websites,4.0,2025-10-31T07:19:35-07:00,Karthik Desai
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220351119,Trainer explains the concepts well,5.0,2025-10-31T02:52:54-07:00,Asif72s
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220316711,Tutor explanation is good,5.0,2025-10-30T18:33:22-07:00,Thulasiram Kuncham
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220282627,Nice,5.0,2025-10-30T09:09:33-07:00,Govind Singh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220257801,Good,3.5,2025-10-30T05:12:30-07:00,Sk. Tuhin Islam
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220194213,Explains very well & organized way !!,5.0,2025-10-29T14:34:03-07:00,Marvin Lee
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220141749,Good one,5.0,2025-10-29T04:35:53-07:00,KURIAN JOSEPH
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,220123125,"Very helpful, one of the best courses on Agentic AI, doesnt just focus on the surface level information, dives deep into nuances",5.0,2025-10-29T01:43:10-07:00,Varun Bhoj
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,219999147,Krish Naik is one of the bset GenAiI tutors i have seen so far,5.0,2025-10-28T00:03:16-07:00,fredrick Ayivor
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,219924637,"It was amazing, Thanks to Krish Naik and team :)",5.0,2025-10-27T05:46:52-07:00,S Santhosh Kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,219910387,good,4.5,2025-10-27T03:24:27-07:00,Pakanati Ganesh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,219828899,"We are learning sofware from Master Krish Naik ,learning Religion from Zakir Naik",5.0,2025-10-26T01:26:19-07:00,Ömer Panay
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,219782225,good,4.5,2025-10-25T02:35:55-07:00,BARANIDHARAN Suresh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,219737805,good,5.0,2025-10-24T08:26:49-07:00,Riddhi Anilkumar Vaid
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,219726253,Great Course,5.0,2025-10-24T06:13:03-07:00,Mrunalmukund Borude
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,219713107,Very clear,4.5,2025-10-24T03:28:40-07:00,Edirin Eyuren
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,219472539,super exited to learn agentic ai development,4.5,2025-10-21T14:22:01-07:00,Mitu kr rabha
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,219269787,wonderful class and very much satisfied with the classes.,5.0,2025-10-19T00:03:41-07:00,Pranav Babu
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,219173215,this course can be a good starting point but it is quite superficial as well.,3.0,2025-10-17T05:32:46-07:00,Ahmet LAÇİN
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,219102883,didn't go through course comprehensively to comment about it,4.0,2025-10-16T09:32:38-07:00,Mudigonda Aravind kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,218967867,Clear. waiting for better understanding,4.0,2025-10-15T03:06:02-07:00,gomathi s r
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,218921441,Too long videos and very time consuming - Shorter more to point videos would be better. Students loose patience when each video is 20 + mins,3.0,2025-10-14T14:52:39-07:00,Gokul Ramesh Kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,218874233,"All he does is copy and paste the code from other source, he doesn't even know what he's talking about. I don't like this way of teaching, it looks like someone else made the notebooks for him and he's just reciting the notebooks as part of teaching. 
+There's no structure, in mid-way of explanation, he comes up with a new topic and starts explaining that.",2.5,2025-10-14T05:10:07-07:00,Solomon Leo
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,218873667,Its really good to kick start my journey in Agentic AI and MCP.,5.0,2025-10-14T05:03:48-07:00,Koushik Gopinath
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,218771451,Good explanation regarding apps installations necessary for work,4.0,2025-10-13T05:22:14-07:00,Mykhailo Kotelya
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,218543831,great content,5.0,2025-10-09T22:13:43-07:00,Om Maswale
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,218370987,Good,3.5,2025-10-08T04:44:42-07:00,Jonnadula Sri
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,218194553,ggg,4.5,2025-10-06T09:28:50-07:00,Aashutosh Tandekar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,218187897,Excellent course!,5.0,2025-10-06T08:09:51-07:00,Deepika N
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,218096035,very useful and best part is most of the demo's use groq api which is free to use.,5.0,2025-10-05T05:38:53-07:00,Mounica Narnindi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217977257,Amazing,5.0,2025-10-03T03:34:33-07:00,Subhrajit Pyne
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217962073,"I recently completed this course and overall, I had a positive experience. The content was comprehensive and well-organized, covering all the key aspects of the topic. The subjects were engaging and relevant, which kept my interest throughout the lessons.
+The instructor appeared to be knowledgeable and competent, clearly explaining even the more complex concepts. However, I encountered a significant issue with the instructor’s keyboard usage—there were numerous typos that were not corrected, which unfortunately made some parts of the course difficult to follow and slightly frustrating.
+Despite this drawback, I believe the course offers solid educational value, and I would recommend it to others interested in the topic. I hope future updates will improve the quality of the written material.",4.0,2025-10-03T00:18:27-07:00,Andrea Minuto
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217835263,good,5.0,2025-10-01T09:28:40-07:00,Pankaj Singh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217823785,good,5.0,2025-10-01T07:04:21-07:00,TANUSHREE DUSANE
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217820815,"good course, broadly informative",5.0,2025-10-01T06:29:27-07:00,Mayur Reddy
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217809837,"I really don't like the course. Teacher unnecessary stretching the course video too long. If you watch video like ""Building Important Components Of Langchain"" its 22min video  and he teach nothing. in 22min he can give entire overview about langchain but nothing given.
+The code he writes is poor. He should show atlist how at production like code looks but no example given.
+
+Its 36hr long course so if someone take this course, then his intention is to get full idea with production like code example and with deployment. Because it will take almost a month if you try to complete it totally in a decent speed. 
+
+But at the end of 36hr what learner gets, nothing. I think I should have watch a YouTube video instead of buying this course.
+
+Totally not recommended",2.0,2025-10-01T04:12:01-07:00,Abhijit Das
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217664033,ok,5.0,2025-09-29T20:58:34-07:00,Lê Thanh Bình
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217627463,"good explanation as usual from Krish Naik Sir ,  but complete Agentic topics should have covered",5.0,2025-09-29T10:43:43-07:00,Ajay Keerthi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217513657,good,5.0,2025-09-28T07:12:34-07:00,Senthilvel Kuppusamy
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217485547,Great,4.5,2025-09-27T20:22:11-07:00,Adhityan mudliyar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217449131,Everything is going amazingly,4.5,2025-09-27T03:21:05-07:00,Amardeep Ranjan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217441777,Extremely useful. It helped me with one of my technical projects in my company.,5.0,2025-09-27T00:20:04-07:00,Nagarjun Tumkur Shivamurthy
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217347903,good,5.0,2025-09-25T23:20:02-07:00,Atasi Bhoumik
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217233699,"Basic concepts are well covered, but more hands-on, industry-ready examples and projects are needed. Most of the concepts were rushed through without sufficient practical depth",3.5,2025-09-24T21:38:30-07:00,Ashish Idhol
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,217080201,Explain in very easy language,5.0,2025-09-23T09:24:45-07:00,Amitabh Deo Tiwari
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216903329,ok,5.0,2025-09-21T21:15:01-07:00,Mohammed Kashif Rafi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216802253,Excellent content!!!,5.0,2025-09-20T00:14:45-07:00,Ritesh Singh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216723455,Excellent,5.0,2025-09-19T00:55:45-07:00,Hemanthkumar Shanmugam
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216695367,Explanation should be improved a lot.,2.5,2025-09-18T17:01:15-07:00,Chandan Kumar Tripathy
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216639949,"A very good course backed by rich content , a captivating tone and good interactive examples",5.0,2025-09-18T04:19:18-07:00,Ashish Bajpai
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216634317,Very well explained,5.0,2025-09-18T03:19:20-07:00,ria dora
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216430133,Everything is clear,5.0,2025-09-16T04:45:56-07:00,ScaleupAlly Admito
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216430037,nice,4.5,2025-09-16T04:44:51-07:00,Nagaraju
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216358293,Greate explanation.,4.0,2025-09-15T11:02:14-07:00,Taniya Afreen
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216340803,super,4.5,2025-09-15T07:37:43-07:00,Shaahid Syed
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216333331,Amazing Learning experience.,5.0,2025-09-15T06:27:15-07:00,Amit Solanki
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216295807,Everything is good.,4.5,2025-09-14T23:55:14-07:00,Suraj Chaurasiya
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216292539,The content is cool,5.0,2025-09-14T23:18:32-07:00,Ahmed Ali Pathan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216288727,giid,5.0,2025-09-14T22:26:45-07:00,Amalesh Paul
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216268411,Good one if you are starting to learn Agentic Ai,4.5,2025-09-14T12:29:58-07:00,Pratik
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216205463,"I feel like many of the things did not explained well, and just utilize it while coding.",2.0,2025-09-13T07:08:29-07:00,Ankur Gupta
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216172695,very confusing,1.0,2025-09-12T15:00:26-07:00,Henry Biko
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216141031,Teaching style is very very good.,5.0,2025-09-12T06:33:54-07:00,Ranjit Singh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,216005999,GOOD,5.0,2025-09-10T23:31:53-07:00,Riya Das
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215983671,g,5.0,2025-09-10T16:31:17-07:00,Satya Shah
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215968899,This is a great course. I wish the author could remove the parts where he debugged/fixed errors and spent more time on important concepts.,3.0,2025-09-10T11:41:48-07:00,Lichen Zhao
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215913503,Making it more complex in terms of python development. Emphasizing more on writing the production like code rather then learning the concepts,1.0,2025-09-10T01:46:20-07:00,Mohit Rastogi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215890125,Very much helpful and in-depth course.,5.0,2025-09-09T21:37:32-07:00,Maji Sourav
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215839821,zing zing ammazzinggggggggggggggggggg,5.0,2025-09-09T07:49:54-07:00,Jammala Pavan Kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215753443,Very clear explanation with examples!,5.0,2025-09-08T12:41:10-07:00,Athiya Ansari
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215419277,"This is a good course in general. Gets a little too technical sometimes, and a simple example wouldn't suffice. I would prefer a project-based learning, where a given task is solved using the different techniques (different splitters, embeddings, databases, etc.,)",3.0,2025-09-04T03:24:42-07:00,Alireza Jalali Yazdi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215271645,"Revisting the course, i felt lectures repeats sentences way too much kind of distracting, mentioning this to imrppving the presentation.
+
+Mainly I see this Basic to Intermediate, good to start with but needs a mor erobust content with real-world examples to be able to understand applying the skills and knowledge better at Work, because this is a mandatory knowledge for people with over 5+ years of exp already in AI-ML/Gen-AI. Also it should have covered the advance topics.",3.0,2025-09-02T17:38:57-07:00,Sandhya Yenugula
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215245145,Great course!!,5.0,2025-09-02T09:41:57-07:00,Vivek Mehta
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215234745,Excellent course!  Explains concepts in detail so that it becomes clear what to do and why it is important.  Good stuff!,4.5,2025-09-02T07:38:51-07:00,Ibn Newsome
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215201377,very good udemy,4.5,2025-09-02T01:47:43-07:00,sumit nyayadhish
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215196937,nice course with easy explanation,4.0,2025-09-02T00:59:19-07:00,Ritika Lochab
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215196617,Very good,5.0,2025-09-02T00:56:13-07:00,Mouli Mondal
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215103377,Great videos and the concepts described very clearly.,5.0,2025-09-01T01:41:36-07:00,Debendra Rout
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215020827,need to improve more precision and easy way to explain. try to expalin in Hindi or subtitle to get reach the most people.,3.5,2025-08-30T20:08:34-07:00,Sachin Patil
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,215018197,"Repeats a lot on the basics like getting api keys, and even the concepts of embeddings, vector databases,  chaining , repeats a lot on basics but do not explain the important part. even tells few topics, we will discuss later like Groq- inference - language processing unit, but never explains.",2.0,2025-08-30T18:23:51-07:00,Saikrishna Padamatinti
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214993409,"Course does not explain fine details. It like copying and explaining which is in google or other resources. For chunk_size the author is not explaining why we choose that size, instead he says its up to you. This author is a very beginner to AI. I think Krish needs to understand more concepts as he is not explaining the ""why"" part.",1.5,2025-08-30T06:38:19-07:00,Mohamed Jameel Abdul Humayoon
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214777185,"Amazed seeing the efforts put by krish, in the course.",5.0,2025-08-27T19:56:13-07:00,Ratnadeep Shyamal Pal
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214723983,It is good but implementation is done using streamlit is not good. It is not used in industries. Need example with proper technology stack which is used in industries. It is of no use to implement it using steamlit. I am not happy with the trainer. He should know how things should work when using correct technology stack.,3.0,2025-08-27T05:54:08-07:00,Sunil Dubey
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214650117,"This course is an absolute disappointment. It's nothing more than a series of unedited screen recordings where the instructor just copy, paste the code and hits run without any explanation. There's no teaching, no context, and no guidance whatsoever. I feel like I've wasted my money on a glorified coding playback. Avoid this course if you actually want to learn something. 
+In Krish Sir's approach often falls short, primarily consisting of  copying, pasting and executing code without clear explanations, leaving learners without crucial understanding.",1.0,2025-08-26T09:38:52-07:00,Ayush Singh Kushwah
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214644241,excellent introduction,5.0,2025-08-26T08:26:45-07:00,Francisco Ivan Moreno Trlin
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214617389,Good,4.0,2025-08-26T03:37:04-07:00,Lanka Haricharan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214616615,great,5.0,2025-08-26T03:29:31-07:00,Ishaan Narayan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214412071,"Painfully slow. Misleading. 11 hours of basic python programming is nothing to do with Agentic AI.
+Even the initial project setup steps..what is the point of show one way of doing something...the use a different way?
+Just wasted 2 hours here!",1.0,2025-08-23T15:23:47-07:00,Amir Nathoo
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214407587,Great course. Involved complete hand-on implementation for each concept throughout the course that the best part.,4.0,2025-08-23T12:46:25-07:00,Swaroop Chandre
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214366015,Too good,5.0,2025-08-22T19:57:11-07:00,Amit Gupta
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214354295,"Does not define what the terms are for e.g what is ""Langchain"", What does it do?  A preamble would be helpful to a novice. Its not about just setting up environments and variables...Also avoid histrionics in the voice modulation",3.0,2025-08-22T13:38:34-07:00,Ganesh Khandpekar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214329435,Good,5.0,2025-08-22T07:46:39-07:00,Navaneeth Karumuru
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214317877,Good and interactive,5.0,2025-08-22T05:35:41-07:00,Magesh Vyakarnam
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214243445,"Such a good job man !
+Learned a lot :)",5.0,2025-08-21T10:28:17-07:00,Suraj Chavda
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214237255,Going through steps without explanation.  I don’t know why I am creating the folders I’m creating to create an environment.   Why do I need an environment?,3.0,2025-08-21T09:11:31-07:00,Richard mcallister
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214181579,Amazing,4.5,2025-08-20T23:18:22-07:00,Nitesh Kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,214117591,yes,5.0,2025-08-20T06:25:44-07:00,Anonymized User
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213960593,"I learned a lot from the course. Using Langgraph i have built a Chat bot with multiple model integration and several factors for the chatbot. this  course also 
+helpful in making me ready to build agentic ai applications using langgraph.",4.5,2025-08-18T22:03:00-07:00,Sai Kiran
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213883751,"The content was too fast, in many cases the instructor would just paste codes from other screens, giving litle or no room for the learner to catch up. The instructor could also find ways to reduce typos on the screen while typing.",3.0,2025-08-18T02:49:15-07:00,Sethuraman Subramanian
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213881495,"The course is really well-structured and easy to follow. The concepts are explained clearly, making it great for learning. However, I feel it would be even better if more real-world projects were included. Adding practical, hands-on projects would help apply the knowledge and make the learning experience more valuable.",5.0,2025-08-18T02:25:36-07:00,Meet Solanki
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213869447,nice,5.0,2025-08-18T00:14:36-07:00,Cao Hải Đăng
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213832627,Really good teaching!!,5.0,2025-08-17T10:03:45-07:00,Sanket Shinde
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213808787,good,5.0,2025-08-17T01:33:15-07:00,Sandeep Gunda
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213743617,Very Improper Explanations & some times too lengthy. Please concise.,1.5,2025-08-15T18:46:31-07:00,Arjun Palusa
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213703531,"I work  as a physical science researcher, and most of my implementation is limited to running  jupyter-notebook or python scripts to display results in the terminal. I am not used to modular programming, and building end to end projects. As such, this course has given me a framework to think and implement agentic AI projects like a software developer.",5.0,2025-08-15T05:44:30-07:00,Madhavan D K
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213612993,"Amazing Course, everything is explained in detail, that's the reason Krish is my fav instructor out there.",5.0,2025-08-14T04:48:25-07:00,Abdul Rehman
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213607043,good,4.5,2025-08-14T03:39:24-07:00,Anonymized User
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213526733,Good stuff,5.0,2025-08-13T07:30:08-07:00,Anu Chandu
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213466179,Strong words and suggestions of advice . Thank you .,5.0,2025-08-12T19:23:47-07:00,Roody Cassamajor
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213418541,"This course is truly amazing, and the explanations were clear and engaging. Thank you, Krish!",4.5,2025-08-12T06:45:20-07:00,Chidambara Raju G
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213411415,NA,5.0,2025-08-12T05:31:45-07:00,Palle Reddy
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213397559,good,4.5,2025-08-12T02:59:11-07:00,Ashvin Vinoth
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213391035,Very useful,5.0,2025-08-12T01:51:41-07:00,Navaneetha Krishnan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213304937,Love this course. In depth knowledge with proper explanation.,5.0,2025-08-11T05:00:58-07:00,Ajaykumar Vavdiya
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213279551,informative,5.0,2025-08-11T00:16:00-07:00,Mounika Bandari
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213239229,Course is as per my expectation. I am enjoying learning through this course.,5.0,2025-08-10T08:27:35-07:00,Pranav Patel
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213198581,Course is good,4.0,2025-08-09T11:20:54-07:00,B.Naga Hemanth Sai
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213195837,"Amazing course overall, would be great if he adds more content related to mcp and end to end projects using mcp server and their deployment on cloud",5.0,2025-08-09T10:09:22-07:00,Swaraj Dash
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213188501,good,5.0,2025-08-09T07:16:20-07:00,Abhijeet Dewangan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213148837,Great Teacher. Krish is awesome !!,4.5,2025-08-08T11:51:08-07:00,Amritpal Singh Dhanjal
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213120719,Excellent into to Langgraph & langchain.,5.0,2025-08-08T05:39:51-07:00,Arjun Ghosh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,213008117,Really great tutorial for beginners to understand and follow through,4.5,2025-08-07T02:42:38-07:00,Pavan Mahadevaiah
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212894857,Excellent project demonstrating capabilities of Langgraph,5.0,2025-08-06T01:23:23-07:00,Praveen Kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212834643,Its really helpful,5.0,2025-08-05T09:48:47-07:00,Shashwat Singh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212682339,great..,5.0,2025-08-04T02:30:45-07:00,Harsh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212668441,good,4.5,2025-08-04T00:07:47-07:00,A V Saravanan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212652157,Could have explained more about decorator chaining and the order in which they get executed and could have explained more about passing arguments into decorator,3.0,2025-08-03T20:08:01-07:00,Giridhar Raviteja Kanisetty
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212597131,"I went for a spin with VS code configuration. Was never able to get Terminal switch to CMD, by default it always showed PS and no option to change it. Will be using Spyder or Jupyter for this course",2.5,2025-08-02T19:37:14-07:00,Anish Kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212596873,Been following Krish since 2018. Never disappoints on the depth of content and ensuring we understand a topic at the most fundamental level,5.0,2025-08-02T19:25:23-07:00,Shangar Sivananthan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212524255,Krish is the master. No one is better. My beloved teacher .,5.0,2025-08-01T10:29:46-07:00,Monique Shaqiri
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212481993,Clear explanantion,5.0,2025-08-01T01:51:20-07:00,Pradeepa Dorairaj
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212471245,THANKS,5.0,2025-07-31T23:46:21-07:00,Hrushikesh Tripathy
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212447993,"Fantastic Teacher, clear and straight to the point. If Langchain is something you need to learn forget about all the other courses",5.0,2025-07-31T16:05:34-07:00,Oswaldo Castro
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212338043,Good,5.0,2025-07-30T17:32:47-07:00,Himanshu Goyal
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212276061,"Examples of variable declaration should also be more related to real-world. Just mere reading screen after screen; just monotonous.  novice that I am in Langchain and so on, I have absolutely no clue what is going on. At times the instructor is too fast; just reading text rather than a meaningful interpretation.",1.0,2025-07-30T04:43:40-07:00,Ravi Shanker
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212196065,"Expected current trends on AI, not python basics. Wasting lot of my time",1.0,2025-07-29T10:24:44-07:00,Srikanth Sharma
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212192867,Ok very helpful,4.0,2025-07-29T09:47:43-07:00,Vamvakas Dimitris
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212181829,NA,3.5,2025-07-29T07:48:52-07:00,Nabeel Ahmed
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212130441,The course is a bit repetitive. It would be nice if there were some exercises. Teacher is not active on the Q/A. So you are all alone for this course.,2.0,2025-07-28T23:35:33-07:00,Tegh Bir Singh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212075053,Thanks,4.0,2025-07-28T08:49:29-07:00,Abhisek Roy
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212065747,nil,2.5,2025-07-28T07:14:56-07:00,SIVAKUMAR V
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212027445,"Cource is good, but we woul dlike to have end to end development using MCP which includes deploying to cloud",3.5,2025-07-28T00:47:34-07:00,Koteswara Rao
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,212021185,NA,4.0,2025-07-27T23:44:14-07:00,Linganna Shakamuri
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211933403,"Little too fast for beginners, especially the 1st module.",4.5,2025-07-26T10:30:35-07:00,Boson Tech
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211755997,"Overall, the bootcamp content is appropriate, but it could be streamlined. Several video sections repeat information, and recurring typos could be corrected to make the course more concise and polished.",4.0,2025-07-24T07:18:44-07:00,Ashok Sharma
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211703655,Details are good,5.0,2025-07-23T21:37:16-07:00,Neha Sharma
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211664837,i already know about python but you are the first one who i like,4.0,2025-07-23T09:34:21-07:00,Bilal Siddique
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211650641,excited,5.0,2025-07-23T07:07:07-07:00,Rosli Shafiee
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211624419,Good useful course,5.0,2025-07-23T02:34:06-07:00,Vinothkumar G
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211557445,Buen curso. Muy detallado y con muchas herramientas.,5.0,2025-07-22T09:44:01-07:00,Josefina Gonzalez
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211523279,Great learning content...Kudos to Krish Naik for his detailed briefing. Thank again,5.0,2025-07-22T03:51:44-07:00,mahesh jk
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211519965,"As always, great video series by Krish Sir",5.0,2025-07-22T03:15:29-07:00,Abhishek Laxman Joshi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211443401,"It was a good course, thank you for teaching.",5.0,2025-07-21T08:32:02-07:00,Shubham Mojidra
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211351759,ok,4.5,2025-07-20T06:53:42-07:00,Gaddam Kavyasri
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211337777,"Great content, everything is clear and delivered in understandable way with projects implementation.",5.0,2025-07-20T01:25:25-07:00,Sachin Ranasing
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211332883,Great detailed explanation of every concept.,5.0,2025-07-19T23:21:55-07:00,Henry Siy Yao
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211304041,"you are a cheater, not taken any  class in in your batch ""Ultimate Data Science And GENAI Bootcamp"" never going to take any course in future .",1.0,2025-07-19T08:09:10-07:00,Mukesh Kumar Panigrahi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211228487,Great,5.0,2025-07-18T05:45:58-07:00,Dheeraj Maddukuri
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211197529,Awesome Course.,5.0,2025-07-17T23:37:01-07:00,Ahsan Taimoor Ghazi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,211079753,I have enjoyed the course thoroughly. I have started with Zero level knowledge on Agentic AI before starting this course and it was quite a journey but worth it.,5.0,2025-07-16T20:00:32-07:00,GAUTAM CHATTERJEE
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210986349,Very fantastic and good stuff,4.0,2025-07-15T23:29:43-07:00,Udemy User
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210971023,"The teaching is very clear and thorough, the resources provided are also very helpful.",5.0,2025-07-15T19:21:56-07:00,Babatunde Keshinro
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210898614,Great and simple explanation.,5.0,2025-07-15T03:12:33-07:00,S mohamed abubacker Siddique
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210831940,awesome explanation and code examples help a lot to understand the concepts.,5.0,2025-07-14T10:15:22-07:00,Imran Zahoor
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210758913,Easy to understand and follow!!!!,5.0,2025-07-13T19:01:41-07:00,Christopher Youngman
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210732433,So far I felt is good,4.0,2025-07-13T07:12:25-07:00,Nishmitha K
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210713511,good,5.0,2025-07-12T23:56:07-07:00,Vansh Garg
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210709089,Able to easily understand the concepts.,4.0,2025-07-12T21:47:33-07:00,PalMurugan Chandran
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210701067,"Someone who is learning Langchain is already well established on Advanced python. This course has over 5 hrs solely on python basics, till chapter 47, which is complete waste of money. Don't recommend this course at all.",5.0,2025-07-12T16:22:35-07:00,Sachin Sharma
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210690825,GOOD EXPLANATION,3.5,2025-07-12T10:42:30-07:00,Abhishek Biswal
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210599919,"Make some end to end agents projects with deployment on AWS , Azure.",4.5,2025-07-11T03:21:37-07:00,Prince Gupta
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210598587,GOOD,5.0,2025-07-11T03:05:15-07:00,Srinu Maragoni
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210594271,"Yes it was good.
+Please add more material for MCP Theory & End to End Projects for customize MCP server.",5.0,2025-07-11T02:12:27-07:00,Pragnesh Krishnakant Solanki
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210575417,nice course,5.0,2025-07-10T22:18:44-07:00,Tadivalasa Tirupathi Rao
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210304687,"This is my third course on LangGraph.
+It's needed - you need to learn from several sources to digest it.
+So far this course is looking good.",5.0,2025-07-08T05:34:36-07:00,Jeff Gillin
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210297155,I love this lesson. The teacher has design each lesson nicely for anyone to understand.,5.0,2025-07-08T04:17:19-07:00,Austine Omondi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210264671,awessome,5.0,2025-07-07T22:38:06-07:00,Navin Vinodrao Chokhat
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210212853,"I'm really enjoying this course so far—it’s honestly exceeded my expectations. The lessons are well-organized and easy to follow, and the instructor does a great job explaining complex topics in a simple, practical way. I’ve already learned things that I can use in real projects, which is exactly what I was hoping for. It’s been a great fit for what I wanted to learn, and I’m excited to see what’s coming next!",5.0,2025-07-07T08:37:52-07:00,Soumya Ranjan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210205247,Krish is awesome!!!,5.0,2025-07-07T07:17:30-07:00,Nikhil Bansal
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210134389,"Crystal clear voice and communication. 
+We can almost take notes and follow this lecture. I like the examples. 4.5/5",4.5,2025-07-06T12:53:51-07:00,Chandramouli Ravi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210101995,Well Explained,5.0,2025-07-06T00:16:39-07:00,Sudhir Sharma
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210073221,great,5.0,2025-07-05T08:28:58-07:00,Suraj Shetty
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210053355,no indepth explanation for many of things. tutor reads from the text thats it. I would like to know the internal flow of certain function he doesn't explain. but thanks to gpt I was able solve my doubts. this course can work as curculum for your preparation,3.0,2025-07-05T00:10:44-07:00,N.Chaitanya sai kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210042873,good,5.0,2025-07-04T18:16:51-07:00,Rangoli Kachhawaha
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,210008865,Great tutorials.,5.0,2025-07-04T06:18:02-07:00,Sanjeev Kumar Singh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209992737,Great! Content.,5.0,2025-07-04T02:50:25-07:00,Ashutosh Pandey
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209983561,Great,5.0,2025-07-04T00:54:01-07:00,Hariprasath P
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209878431,Good,4.5,2025-07-02T23:24:25-07:00,K Sai Reddy
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209848029,"It was really a very great course.
+Looking forward for Multimodal Applications course.",5.0,2025-07-02T13:25:37-07:00,Kshitij Goswami
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209761523,Everything you want to learn on langgraph this is THE Course. Thanks to Krish for his detailed explanation on each and every concepts with clear and easy to understand example...just AMAZING.....,5.0,2025-07-01T18:58:31-07:00,Arindam Choudhury
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209716355,"The course was average. Project-based content, particularly around LangGraph, was effective for learning, but earlier topics felt irrelevant. Suggest focusing more on relevant, practical topics to optimize time.",2.5,2025-07-01T07:05:34-07:00,Mukesh Yadav
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209445693,Best tutorials for fundamental understanding,5.0,2025-06-28T09:45:31-07:00,Biswajit Routray
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209412567,"it was very nice course .. i was fearing going for AI learning as i was having no programming background.. watching krish naik class, i got some confidence to learn python and i am happy that my fear with programming is almost gone.. now i am putting lot of effort in it and parallely mastering AI concept
+
+Thank u Krish Naik ji..",5.0,2025-06-27T22:39:48-07:00,Vijai Kumar Srivastava
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209405613,good,4.5,2025-06-27T18:59:56-07:00,Debasish Majumdar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209374501,Good Course,5.0,2025-06-27T09:20:48-07:00,Ganesh R
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209362951,Amazing content with great explanation.,5.0,2025-06-27T07:14:39-07:00,Suraj Sharma
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209347273,Very well explained.,5.0,2025-06-27T04:27:32-07:00,Er Jay Vyas
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209290913,muy interesante,5.0,2025-06-26T14:24:20-07:00,Luis Miguel Ramirez Vilana
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209240893,I was looking for more projects to help me understand the workflow well but projects are very less..lil disappointed,2.5,2025-06-26T04:32:06-07:00,Mansi Mehta
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209237753,yes,5.0,2025-06-26T04:01:28-07:00,Kaviya M
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209158859,Excellent,5.0,2025-06-25T10:19:42-07:00,Navya Muthukumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209130325,"The course is very good and explanations are crystal clear, even beginners can understand easily. But would also like the instructor to cover agentic ai frameworks such as crewai, agno etc. along with building some industry level multi-agent projects using these.",4.5,2025-06-25T05:48:09-07:00,Gauri Gandhi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209021065,Good Course but still need more practical and real word examples,3.0,2025-06-24T06:58:47-07:00,Arun Nk
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,209005103,"Last part about the API call was slightly rushed, knowing less about software development, it was a bit confusing",4.0,2025-06-24T04:25:32-07:00,Dhruv Puri
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208891251,Good,3.5,2025-06-23T04:27:27-07:00,Sumit Singh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208878825,It was a well organised course with crisp and well curated details.Great job by Krish.,4.5,2025-06-23T02:28:48-07:00,Nagamohan Koganti
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208852055,Concepts are explained very well,5.0,2025-06-22T21:37:13-07:00,Kashish Khatwani
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208836333,This is an outstanding course. Krish simplifies complex topics and provides valuable insights that enlighten professionals across various domains.,5.0,2025-06-22T14:50:35-07:00,Anonymized User
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208815407,Instructor is very clear about the concept and well delivers the concepts in simpler manner  and can able to understand the concepts very easily.,5.0,2025-06-22T07:02:18-07:00,Lokesh Chinta
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208807995,It was a very good course.,5.0,2025-06-22T04:35:12-07:00,Sivaramakrishnan Sivalingam
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208800333,50% of content is  very basic and repeated in his other courses.,3.0,2025-06-22T01:51:24-07:00,Rakesh ks
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208795761,He is always Dammmm!!! goodddd at teaching,5.0,2025-06-22T00:11:42-07:00,Brahme
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208790985,loving it krish way to go,5.0,2025-06-21T22:19:24-07:00,Venkatesh Vellore Vijayasarathy
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208758227,good,5.0,2025-06-21T06:32:14-07:00,Prabhat k mishra
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208757765,Just start the course.I am loving it,5.0,2025-06-21T06:22:48-07:00,Sandeep Janardhanan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208714987,good,4.5,2025-06-20T12:24:04-07:00,RajaAnbalagan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208707625,"Getting better with more concrete examples, and showing proofs of concepts. The end projects were my favorite part to learn to connect agents together and also mock up a frontend.",5.0,2025-06-20T10:31:40-07:00,Rishi Patel
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208698371,The content is really awesome.,5.0,2025-06-20T08:27:58-07:00,Manas Mohanty
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208640627,Love the fact that it is from the basics so even young coders can be able to do 💕💪 thank you krish,5.0,2025-06-19T21:04:30-07:00,Akshita Kadambathil
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208604897,Later it might be updated but i want to warn like till section 8 is same as of genai course.Like there is no point of repeating major content from all the course.Will update after completing 3 more section,1.0,2025-06-19T09:30:50-07:00,Aakash Swastik
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208548005,"Yes , I really love this course",5.0,2025-06-18T23:19:34-07:00,Abhishek Agnihotri
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208508901,Good / Amazing,4.5,2025-06-18T11:18:32-07:00,Savitha G
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208507509,"Insanely thorough, well-structured, and clearly explained. A++++++ marry me Krish!!!",5.0,2025-06-18T11:00:02-07:00,Mary Heuman
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208324303,It’s very good course but I’ve complain about response of question in Q&A,5.0,2025-06-16T22:14:33-07:00,Petcharat Limprasert
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208315863,He is the best guy to learn to learn coding,4.5,2025-06-16T19:36:58-07:00,Priyansu Biswal
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208271115,"Great course but facing an issue that Langserve is not fully compatible with Pydantic v2 yet.
+
+Using pydantic 2.11.7. OpenAPI docs for invoke, batch, stream, stream_log endpoints will not be generated.",4.0,2025-06-16T07:46:30-07:00,Kushagra Malani
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208126529,Very well concised,5.0,2025-06-14T04:59:50-07:00,Kiran Das
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208085601,Excellent!,4.5,2025-06-13T11:15:23-07:00,H Bhavana
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208081855,It is very clear. He is taking step by step which makes it easier to understand the topic,5.0,2025-06-13T10:20:17-07:00,Devi Ajit
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208069783,The coursce is really great,5.0,2025-06-13T07:42:59-07:00,Sandeep Srinivas
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,208045575,excellent explanation,5.0,2025-06-13T02:51:50-07:00,Anonymized User
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207865307,Thank you sir for bringing such amazing course.,5.0,2025-06-11T07:08:39-07:00,Swasti Santosh Naik
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207717583,good,5.0,2025-06-10T00:13:31-07:00,Thapaswini Kapalavai
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207717335,good,5.0,2025-06-10T00:10:56-07:00,Nithya M
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207686835,Enjoying the course so far! It's amazing!,5.0,2025-06-09T15:37:23-07:00,Shina Salau
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207545321,Till now it's a nice experience!!,5.0,2025-06-07T22:14:21-07:00,Dipanjan Roy
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207519829,very exceptional explanation and very clear guidance!!! Thankyou so much Sir,5.0,2025-06-07T07:56:51-07:00,Upendra Bohara
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207468695,Use open source python IDE and jupyter is sufficient. No need to start practice with VSCODE with could be potential future billable product of MS,3.0,2025-06-06T09:32:14-07:00,BHARATHI RAJA PALANI SAMY
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207372791,I am loving how he is able to make the whole teaching easy. I love it,5.0,2025-06-05T07:51:37-07:00,Makinde Henry
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207336509,"I have learn lot of new  things how to use basic to advance concept , like lambda and map function. These function reduce the length of code and increase code latency time .",5.0,2025-06-05T00:37:36-07:00,Mandeep Sharma
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207131637,good,4.0,2025-06-02T23:48:33-07:00,Dova Jahnavi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207131115,Good,3.5,2025-06-02T23:42:44-07:00,Chakradhar Kothwala
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207116627,"12 hours its python basics. rest 17 hours I am going through, seeing that 12 hours almost 50% of the AI Agentic course on python basic is kind of shrewd way to increase duration.",2.0,2025-06-02T19:48:13-07:00,san hu mi
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207081565,very good course. Could have shown us macOS steps as well for Mac users not only windows.,4.0,2025-06-02T09:26:14-07:00,Arthur D. Mugume
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207080823,I believe this man 'Krish Naik' and his courses as Gift for me from Allah the Almighty.,5.0,2025-06-02T09:17:22-07:00,MD Shafaque
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,207038047,Enlightening,5.0,2025-06-02T00:55:47-07:00,Abhijit Das
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206989297,excellent way of presentation. Simple and powerful,5.0,2025-06-01T07:17:47-07:00,Ameeya Khadanga
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206854955,"Beautifully crafted course, even toddler can also be able to grasp things.. Thank you Krish Sir",5.0,2025-05-30T04:04:53-07:00,rakesh sathya
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206827365,krish courses are amazing for beginners .He clearly explains everything from scratch.Best instructor for Data Science courses.Thankyou for enlightening us,5.0,2025-05-29T22:30:23-07:00,Srivalli K
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206688489,Simply Superb,5.0,2025-05-28T11:43:15-07:00,Anonymized User
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206443629,i don' t know why i am addicted for this course,4.0,2025-05-26T06:37:18-07:00,Yashwanth BP
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206433007,Good course to start AI Agents,4.5,2025-05-26T04:45:30-07:00,Jay Pradip Bhesania
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206343453,Super...,5.0,2025-05-25T01:54:55-07:00,Ganesh Darla
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206254429,Good explanation,4.5,2025-05-23T10:51:43-07:00,Meraz
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206226967,"Till now it has been going good, the only factor missing is that it must also have some really good industry projetcs",4.0,2025-05-23T05:09:33-07:00,Pranav Vashisth
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206176939,Fantastic Teacher ... Rated as a Top 10 AI channel on YouTube,5.0,2025-05-22T16:38:11-07:00,Jatinder Bali
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206091183,"Alright, so if you are looking to learn about Agentic AI and the different frameworks you need then this course is just the perfect course for you. Moreover, this course offers other important contents on python and generative AI as well. 
+
+The one and only con I find in Krish Naik's courses are that he uses paid LLMs which is kind of hard for us (students) to get access to. I mean there is not a single doubt on the fact that he offers absolutely flawless references and stuff, in fact he also uses free LLM provider like Ollama often but using OpenAI becomes a bit problematic for us to cope with. Rest assured his courses are just way too perfect for you to gather knowledge.
+Go for it!!",5.0,2025-05-21T23:09:12-07:00,Shivam Sarkar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206087099,Krish Naik is profoundly talented educator… He is the best teacher on AI…,5.0,2025-05-21T22:16:58-07:00,Satyajit Senapati
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,206029335,"I just want to thank Krish naik sir , i don't have words to explain his effort",5.0,2025-05-21T07:17:48-07:00,Dhanush S
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205931429,The course is good and Krish teaches each step thoroughly from basics to advanced. I would definitely recommend it to a friend.,4.0,2025-05-20T09:28:56-07:00,Lakshmi Devesh Kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205876769,"very good, simplified complex topics and explained in good way with lots of examples.",5.0,2025-05-19T23:59:13-07:00,Saniya Khan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205711193,"Very Nice Explanation,",5.0,2025-05-18T03:52:11-07:00,John M
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205703899,Very Good....,5.0,2025-05-18T01:04:17-07:00,Udemy User
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205688939,Excellent for beginners,5.0,2025-05-17T17:18:56-07:00,Satish Kuppuswamy
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205656917,toy examples that you have given,1.0,2025-05-17T03:50:09-07:00,Salman
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205651957,"instructor keeps on saying filler words like, right right many times throughout a course. Also I noticed he is not able to convey message precisely, which unnecessary increases the length of the video.
+
+I certainly don't like his teaching style, but looking at the content I am hopeful that I will understand langchain & python ecosystem better here.
+
+Also he should include industry projects later on(not basic projects) apart from just teaching concepts in isolation to get understanding on how one should incorporate langraph framework in web development using fast api/express.js.
+
+I have taken this course to learn in python and then apply this knowledge into javascript",2.5,2025-05-17T01:57:12-07:00,Shubham Patil
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205447011,NicelyExplained,5.0,2025-05-14T19:46:56-07:00,Bharathidasan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205346183,great!,5.0,2025-05-13T21:45:39-07:00,Vulapu Srinath
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205331647,Good explanation.,5.0,2025-05-13T17:02:57-07:00,Rajesh Nair
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205267373,Nice,5.0,2025-05-13T02:58:16-07:00,Ram Sunder
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205180507,"Amazing , best in AI",5.0,2025-05-12T06:11:26-07:00,Naveen Sharma
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205109575,"It is a fantastic course for every one , Every body must opt for this",5.0,2025-05-11T08:25:39-07:00,Deepak Rawat
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205089171,Nicely explained,5.0,2025-05-10T23:58:21-07:00,Soumen Sadhukhan
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205082747,Industry standard content with project hands on,5.0,2025-05-10T20:33:13-07:00,One Solution
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205078235,"Excellent Teaching, with in-depth explanation.  You will become Hero after completion, i can say its a zero to Hero course.",5.0,2025-05-10T17:17:24-07:00,Balaji lucky
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205074419,"great course, very  opt and detailed explanations",5.0,2025-05-10T14:20:29-07:00,Milind Kulkarni
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205072473,"Yes, one of the best courses to learn Python in a short time.",5.0,2025-05-10T13:07:55-07:00,Vijay Kolluru
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205061521,Great Course too Informative,4.5,2025-05-10T08:25:13-07:00,Ankit Mori
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205037811,Amazing explanation with example.,5.0,2025-05-09T22:04:59-07:00,Abnish Kumar
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205036327,"awesome, really helpful",5.0,2025-05-09T21:08:58-07:00,Muhammed Fayiz M
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205036191,"Excellent course. Every person needs to purchase .
+Thank you, Krishna, for sharing the Good Knowledge with us.",5.0,2025-05-09T21:03:24-07:00,Moluguri Saiteja
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205036179,"Excellent hands-on course that simplifies LangChain and LangGraph concepts, making it easy to build powerful multi-agent systems, RAG pipelines, and real-world AI workflows using modern tools.",5.0,2025-05-09T21:03:07-07:00,Bahadursha A V L Sainadh
+Complete Agentic AI Bootcamp With LangGraph and Langchain,6487885,205036113,Amazing!,5.0,2025-05-09T21:00:38-07:00,Pavan Kumar Varanasi
