@@ -7,3 +7,5 @@ catboost
 xgboost
 streamlit
 nltk
+ipykernel
+jupyter

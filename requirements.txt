@@ -7,4 +7,8 @@ catboost
 xgboost
 streamlit
 nltk
+ipykernel
+jupyter
+wordcloud
+textblob
 -e .

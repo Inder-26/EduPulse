@@ -12,6 +12,8 @@ Requires-Dist: catboost
 Requires-Dist: xgboost
 Requires-Dist: streamlit
 Requires-Dist: nltk
+Requires-Dist: ipykernel
+Requires-Dist: jupyter
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
