@@ -1,5 +1,9 @@
 # EduPulse: AI-Driven Course Feedback Intelligence
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
+[![Weights & Biases](https://img.shields.io/badge/Experiment%20Tracking-W&B-yellow)](https://wandb.ai/)
+
 ![EduPulse System Architecture](EduPulse_System_Architecture.png)
 
 ## 🚀 Overview
@@ -62,3 +66,16 @@ streamlit run app.py
 - **Real-time Inference**: Test new reviews instantly.
 - **Executive Dashboard**: Visualize course health trends.
 - **Robust Logging**: Full audit trail of pipeline execution.
+
+## 🔬 Deep Learning Benchmark
+
+Comparing advanced RNN architectures on course review sentiment.
+
+| Model          | Test Accuracy | Test Loss | Observation                               |
+| :------------- | :-----------: | :-------: | :---------------------------------------- |
+| **Simple RNN** |    60.72%     |   1.25    | Baseline; struggles with context.         |
+| **LSTM**       |  **62.68%**   |   1.12    | Best Performance (High Accuracy).         |
+| **GRU**        |    61.94%     |   1.15    | Good balance of speed/accuracy.           |
+| **Bi-LSTM**    |    62.61%     | **1.12**  | Best Loss; captures bidrectional context. |
+
+_Note: Experiments tracked via Weights & Biases on Kaggle GPU P100._

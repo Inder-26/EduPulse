@@ -11,4 +11,6 @@ ipykernel
 jupyter
 wordcloud
 textblob
+tensorflow
+emoji
 -e .
