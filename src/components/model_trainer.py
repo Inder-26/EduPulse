@@ -14,6 +14,7 @@ from tensorflow.keras.layers import Embedding, LSTM, Dense, SpatialDropout1D
 from tensorflow.keras.callbacks import EarlyStopping
 
 from tensorflow.keras.utils import to_categorical
+from sklearn.utils import class_weight
 
 class ModelTrainer:
     def __init__(self, model_trainer_config: ModelTrainerConfig, data_transformation_artifact: DataTransformationArtifact):
@@ -41,6 +42,22 @@ class ModelTrainer:
             MAX_NB_WORDS = 50000
             MAX_SEQUENCE_LENGTH = 250
             EMBEDDING_DIM = 100
+            
+            # Feature Extraction for Weights (Before One-Hot)
+            if y_train.ndim == 1:
+                y_indices = y_train
+            else:
+                y_indices = np.argmax(y_train, axis=1)
+                
+            # Compute Class Weights
+            classes = np.unique(y_indices)
+            weights = class_weight.compute_class_weight(
+                class_weight='balanced',
+                classes=classes,
+                y=y_indices
+            )
+            class_weights_dict = dict(zip(classes, weights))
+            logging.info(f"Computed Class Weights: {class_weights_dict}")
             
             # Determine NUM_CLASSES and One-Hot Encode if necessary
             if y_train.ndim == 1:
@@ -72,7 +89,8 @@ class ModelTrainer:
                 batch_size=64,
                 validation_split=0.1,
                 callbacks=[early_stopping],
-                verbose=1
+                verbose=1,
+                class_weight=class_weights_dict
             )
             
             # Evaluation

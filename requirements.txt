@@ -6,9 +6,14 @@ seaborn
 scikit-learn
 ipykernel
 textblob
-tensorflow
+tensorflow<2.11
 emoji
 pymongo
-pymongo[srv]
 python-dotenv
+protobuf<3.21
+fastapi
+uvicorn
+pydantic
+cudatoolkit
+cudnn
 -e .

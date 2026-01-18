@@ -79,12 +79,22 @@ class DataTransformation:
             logging.info("Text sequences padded")
             
             # Encode Target
-            label_encoder = LabelEncoder()
-            training_labels = label_encoder.fit_transform(target_feature_train_arr)
-            testing_labels = label_encoder.transform(target_feature_test_arr)
-            # Ensure labels are numpy arrays
-            training_labels = np.array(training_labels)
-            testing_labels = np.array(testing_labels)
+            # Map Ratings to 3 Classes
+            # 0: Negative (<= 2.5)
+            # 1: Neutral (== 3.0)
+            # 2: Positive (> 3.0)
+            def map_rating(rating):
+                if rating <= 2.5:
+                    return 0
+                elif rating == 3.0:
+                    return 1
+                else:
+                    return 2
+            
+            training_labels = np.array([map_rating(r) for r in target_feature_train_arr])
+            testing_labels = np.array([map_rating(r) for r in target_feature_test_arr])
+            
+            logging.info("Mapped target labels to 3 classes (0: Neg, 1: Neu, 2: Pos)")
 
             # Combine Input and Target for saving (X, y)
             # Alternatively, save X and y separately or as a tuple object using numpy
